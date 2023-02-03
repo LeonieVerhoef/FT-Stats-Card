@@ -1,2 +1,1 @@
-# FT-Stats-Card
-Stats preview card component made with HTML/CSS grid
+##👋🏼 Thank you for checking out my webpage. I appreciate it! 👋🏼##
